@@ -100,8 +100,8 @@ main{
     display: block;
     position: relative;
     width: 400px;
-    height: 940px;
-    right: 400px;
+    height: 840px;
+    right: 200px;
     padding-right: 20px;
     background-color: #ffffff;
     box-sizing: border-box;
@@ -143,7 +143,7 @@ main{
 
 .contenedor-resultado{
     position: absolute;
-    bottom: 410px;
+    bottom: 330px;
     width: 320px;
     height: 450px;
     padding: 0;
@@ -177,7 +177,7 @@ main{
     border: 1px solid #0A3871;
     cursor: pointer;
     position: relative;
-    top: 100px;
+    top: 50px;
     right: 4px;
 }
 
